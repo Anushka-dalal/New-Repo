@@ -23,4 +23,14 @@ s = Student("Anushka",1, Math=90, Science=85, English=88, History=92, Geography=
 s.display()
 
 
+# Output:-
+# Name of Student = Anushka
+# Roll No of Student = 1
+# Marks in Math = 90
+# Marks in Science = 85
+# Marks in English = 88
+# Marks in History = 92
+# Marks in Geography = 89
+# Percentage of Student = 88.8 %
+
 
