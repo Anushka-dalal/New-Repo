@@ -1,4 +1,4 @@
-# Demonstrating the use of user-defined decorator function
+# Demonstrating the use of custom decorator
 
 from package1.my_decorator import my_decorator   #importing 'my_decorator' function 
 class Decorator:
