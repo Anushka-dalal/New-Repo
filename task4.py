@@ -37,3 +37,14 @@ viru.m6()
 
 print(F.mro()) 
 print(E.mro())
+
+Output :
+Class A:Method m1
+Class B:Method m2
+Class E:Method m5
+Class A:Method m1
+Class C:Method m3
+Class D:Method m4
+Class F:Method m6
+[<class '__main__.F'>, <class '__main__.C'>, <class '__main__.A'>, <class '__main__.D'>, <class 'object'>]
+[<class '__main__.E'>, <class '__main__.B'>, <class '__main__.A'>, <class 'object'>]
