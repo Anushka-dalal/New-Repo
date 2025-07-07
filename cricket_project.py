@@ -105,5 +105,28 @@ for p in rcb_bowlers:
     if p.get_wickets() > 20:
         print(p.getName())
 
+OUTPUT: 
+Batsman in MI :
+Rohit Sharma
+Hardik Pandya
+Ishan Kishan
+Suryakumar Yadav
 
+Bowlers in MI :
+Hardik Pandya
+Jasprit Bumrah
+Piyush Chawla
+Akash Madhwal
+
+Batsman of RCB :
+Virat Kohli
+Faf du Plessis
+Glenn Maxwell
+Dinesh Karthik
+
+Bowlers of RCB :
+Glenn Maxwell
+Mohammed Siraj
+Karn Sharma
+Reece Topley
 
